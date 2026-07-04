@@ -30,7 +30,7 @@
       "alwaysOutputData": false,
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "ftcKb8dFbHbuDved",
+          "id": "YOUR_CREDENTIAL_ID",
           "name": "Google Sheets account 3"
         }
       }
@@ -178,7 +178,7 @@
       "name": "Append or update row in sheet",
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "ftcKb8dFbHbuDved",
+          "id": "YOUR_CREDENTIAL_ID",
           "name": "Google Sheets account 3"
         }
       }
