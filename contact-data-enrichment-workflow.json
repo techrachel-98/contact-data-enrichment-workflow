@@ -5,17 +5,17 @@
       "parameters": {
         "documentId": {
           "__rl": true,
-          "value": "1yEEB-HcWbmKK7_yU_PzR_GX3ySx6g_vQ1CHJw5-6rug",
+          "value": "YOUR_GOOGLE_SHEET_ID",
           "mode": "list",
           "cachedResultName": "Potiential_customers",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1yEEB-HcWbmKK7_yU_PzR_GX3ySx6g_vQ1CHJw5-6rug/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit?usp=drivesdk"
         },
         "sheetName": {
           "__rl": true,
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "Sheet1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1yEEB-HcWbmKK7_yU_PzR_GX3ySx6g_vQ1CHJw5-6rug/edit#gid=0"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d//edit#gid=0"
         },
         "options": {}
       },
@@ -90,17 +90,17 @@
         "operation": "appendOrUpdate",
         "documentId": {
           "__rl": true,
-          "value": "1yEEB-HcWbmKK7_yU_PzR_GX3ySx6g_vQ1CHJw5-6rug",
+          "value": "YOUR_GOOGLE_SHEET_ID",
           "mode": "list",
           "cachedResultName": "Potiential_customers",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1yEEB-HcWbmKK7_yU_PzR_GX3ySx6g_vQ1CHJw5-6rug/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit?usp=drivesdk"
         },
         "sheetName": {
           "__rl": true,
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "Sheet1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1yEEB-HcWbmKK7_yU_PzR_GX3ySx6g_vQ1CHJw5-6rug/edit#gid=0"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit#gid=0"
         },
         "columns": {
           "mappingMode": "defineBelow",
