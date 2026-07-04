@@ -185,10 +185,10 @@
     },
     {
       "parameters": {
-        "sendTo": "techrachel6@gmail.com",
+        "sendTo": "YOUR_EMAIL@gmail.com",
         "subject": "New Client",
         "emailType": "text",
-        "message": "=Hey Rachel,\n\nA new client  {{ $json[\"Name \"] }} has signed up below are the details.\n\nNumber: {{ $json['Contact '] }}\nBudget: {{ $json.Budget }}\n\nBelow is the expected gender and nationality.\n\nGender: {{ $json.Gender }}\nNationality: {{ $json.Nationality }}\n\nDo make sure to connect to her at {{ $json['Contact '] }}\n\nThanks, \nYour AI workflow",
+        "message": "=YOUR_EMAIL@gmail.com,\n\nA new client  {{ $json[\"Name \"] }} has signed up below are the details.\n\nNumber: {{ $json['Contact '] }}\nBudget: {{ $json.Budget }}\n\nBelow is the expected gender and nationality.\n\nGender: {{ $json.Gender }}\nNationality: {{ $json.Nationality }}\n\nDo make sure to connect to her at {{ $json['Contact '] }}\n\nThanks, \nYour AI workflow",
         "options": {
           "appendAttribution": false
         }
